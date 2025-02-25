@@ -1,0 +1,11 @@
+print()
+input()
+float()
+int()
+upper()
+lower()
+capitalize()
+type() - määrab muutuja tüübi
+pi
+round()
+randint()
